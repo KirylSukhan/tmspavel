@@ -23,7 +23,7 @@ public class Homework {
         System.out.println(max(6, 6));
         System.out.println(calculateHypotenuse(12,16));
 
-        // С Массивами ничего не делал, так как только начал про них читать.
+        // С Массивами ничего не делал, так как только начал про них читать
     }
 }
 
